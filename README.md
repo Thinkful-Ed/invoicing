@@ -87,9 +87,9 @@ Again, “Allocate Towards” column can only be tied to one of our 5 program’
 
 In order to receive payment, you must submit the invoice as a **PDF attachment** to thinkful@bill.com. 
 
-Invoices are paid every Tuesday, and on the last day of each month. Submit your invoices by midnight ET on Sunday, to ensure we can initiate payment on Tuesday. Invoices sent afterwards will be processed on the following payment date. If you miss the Sunday deadline but still submitted two days prior to the end of the month by midnight ET, it will be paid on the last day of the month. Please invoice us every 2-4 weeks. 
+Invoices are processed every Tuesday. Submit your invoices by midnight ET on Sunday to ensure we can initiate review and approval on Tuesday. Invoices sent after midnight ET Sunday will be processed on the following Tuesday. We pay invoices within 2 weeks of receiving them.  
 
-We pay invoices within 2 weeks of receiving them. Bill.com predicts most transfers take 2-3 business days from the day payment is initiated, but we advise you to anticipate complete transfer within 5 business days.
+Bill.com predicts most transfers take 2-3 business days from the day payment is initiated, but we advise you to anticipate complete transfer within 5 business days.
 
 > *Helpful tip: Set a reminder on your calendar to ensure your invoices are sent before Sunday at midnight ET.*
 
