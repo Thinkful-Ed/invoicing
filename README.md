@@ -24,24 +24,24 @@ Rejoice, you’re all set! Now continue reading to learn how to create an invoic
 We have some standards that make invoicing simple. We request that on your invoice, you create a separate line item for each activity which includes its date, the amount owed by hours and rate, and the specific Thinkful offering, or program, it is related to. Confused…? Let’s walk through that in more detail: 
 
 **Your work can always be categorize by one of the below buckets:**
-   *EI - Mentorship
-   *EI - Prep/Admin
-   *EI - Other
-   *Flex - Mentorship
-   *Flex - Prep/Admin
-   *Flex - Other
-   *Data Science - Mentorship
-   *Data Science - Prep/Admin
-   *Data - Other
-   *Skills Course - Mentorship
-   *Skills Course - Prep/Admin
-   *Skills Course - Other
-   *Skills Course - Grading (quiz, portfolio, etc.)
-   *Q&A - Data Science
-   *Grading - Data Science (quiz, portfolio, etc.)
-   *Q&A - EI/Flex
-   *Grading - EI/Flex (quiz, portfolio, etc.)
-   *Local Event
+   * EI - Mentorship
+   * EI - Prep/Admin
+   * EI - Other
+   * Flex - Mentorship
+   * Flex - Prep/Admin
+   * Flex - Other
+   * Data Science - Mentorship
+   * Data Science - Prep/Admin
+   * Data - Other
+   * Skills Course - Mentorship
+   * Skills Course - Prep/Admin
+   * Skills Course - Other
+   * Skills Course - Grading (quiz, portfolio, etc.)
+   * Q&A - Data Science
+   * Grading - Data Science (quiz, portfolio, etc.)
+   * Q&A - EI/Flex
+   * Grading - EI/Flex (quiz, portfolio, etc.)
+   * Local Event
 
 >**”Local Event” trumps everything else.** *If you lectured on a data science topic at a local event, you need to allocate that towards “Local”, and not “Data Science”.*
 
@@ -59,9 +59,9 @@ We have some standards that make invoicing simple. We request that on your invoi
 
 ## Submitting Your Invoice
 
-*Step 1:* Manually create your invoice using our invoice template.
-*Step 2:* Save your invoice as a PDF and title it with the invoice number (e.g. “Invoice #1”)
-*Step 3:* Email a PDF copy of your invoice to thinkful@bill.com 
+**Step 1:** Manually create your invoice using our invoice template.
+**Step 2:** Save your invoice as a PDF and title it with the invoice number (e.g. “Invoice #1”)
+**Step 3:** Email a PDF copy of your invoice to thinkful@bill.com 
 
 Once you send your invoice to thinkful@bill.com, it takes 1-2 days for the Bill.com team to import your invoice from the inbox to the review/approval queue. We review and approve invoices on Monday and Tuesday each week, with payments typically issued by Friday of the same week. For this reason, we typically ask that folks submit invoices by Sunday 12am ET so the invoices are in the review/approval queue by Monday/Tuesday. If there are discrepancies or clarity needed on your invoice, we will reach out to you directly for further information. Please note that when invoices are flagged as containing errors that this may delay your payment timeline.
 
