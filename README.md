@@ -91,7 +91,7 @@ We're happy to approve additional support for students where it is needed, and a
 To be clear, we do reserve the right to dispute and not compensate for hours beyond the expectation set by the program if these hours were not approved and documented by a Program Manager, Format Lead, or the Ed Ops team in documented manner. If you're unsure about what activities or time are billable, please reach out in the #mentors channel in Thinkful Slack, and we'll get back to you ASAP!
 
 ***What if I make a mistake on an invoice I already submitted?***
-Please do not send an updated invoice to Bill.com. If your invoice has an error on it, reach out to melissa@thinkful.com to resolve the issue. 
+Please do not send an updated invoice to Bill.com. If your invoice has an error on it, reach out to operations@thinkful.com to resolve the issue. 
 
 ***What is the best way to get support for a billing related question?***
-Send your question to melissa@thinkful.com. If you're question is regarding a specific invoice, please list the invoice number, date range, and amount. 
+Send your question to operations@thinkful.com. If you're question is regarding a specific invoice, please list the invoice number, date range, and amount. 
