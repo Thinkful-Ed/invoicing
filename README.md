@@ -3,7 +3,7 @@
 ## Initial Setup
 
 
-We have a global mentor team and are thankful to have found a solution in Bill.com to manage the hundreds of invoices we process every month for you folks. We require **those who both file a W-9 and are paid via a US bank account** to set up a payment account with Bill.com for tax purposes. If you fit that bill, you will have received an invite from Bill.com on the Friday or Monday after you’ve submitted your W9. Once you see the invite in your Thinkful inbox, just follow [these instructions](https://docs.google.com/document/d/1GZnuI9u3PYqdV30-mqKhpIBD4oTD1knYPMsFrhVD_DQ/edit) and you’re all set!
+We have a global mentor/event staff team and are thankful to have found a solution in Bill.com to manage the hundreds of invoices we process every month for you folks. We require **those who both file a W-9 and are paid via a US bank account** to set up a payment account with Bill.com for tax purposes. If you fit that bill, you will have received an invite from Bill.com on the Friday or Monday after you’ve submitted your W9. Once you see the invite in your Thinkful inbox, just follow [these instructions](https://docs.google.com/document/d/1GZnuI9u3PYqdV30-mqKhpIBD4oTD1knYPMsFrhVD_DQ/edit) and you’re all set!
 
 **If you completed a W-8 tax form and/or utilize a non-US bank account,** you will also send your invoices (in PDF format) to thinkful@bill.com, but will be paid via [Paypal](https://www.paypal.com) or [Transferwise](https://transferwise.com). If you do not have a Paypal or Transferwise account, take a few minutes to create one. Be sure to include the email address associated with your payment account *on the PDF invoice.* If you choose to use Transferwise, send an email to melissa@thinkful.com with the following information:
    * Currency
@@ -54,18 +54,18 @@ We have some standards that make invoicing simple. We request that on your invoi
    * Quantity in hours
    * Total cost for that activity
 
-**We recommend using this simple [invoicing template](https://www.dropbox.com/s/gfjzdsenk21onny/Mentor%20Invoice%20Template%20%281%29.xlsx?dl=0).** Make sure to duplicate this so that the formulas carry over! 
+**You must use this [invoicing template](https://www.dropbox.com/s/gfjzdsenk21onny/Mentor%20Invoice%20Template%20%281%29.xlsx?dl=0).** Make sure to duplicate this so that the formulas carry over! You will also be provided a version unique to you so you don't have to duplicate the template every time.
 
 
 ## Submitting Your Invoice
 
 **Step 1:** Manually create your invoice using our invoice template.
 **Step 2:** Save your invoice as a PDF and title it with the invoice number (e.g. “Invoice #1”)
-**Step 3:** Email a PDF copy of your invoice to thinkful@bill.com 
+**Step 3:** Email a PDF copy of your invoice to thinkful@bill.com, and if you are a local event Instructor or TA, you will cc shannon@thinkful.com and your Community Manager.
 
-Once you send your invoice to thinkful@bill.com, it takes 1-2 days for the Bill.com team to import your invoice from the inbox to the review/approval queue. We review and approve invoices on Monday and Tuesday each week, with payments typically issued by Friday of the same week. For this reason, we typically ask that folks submit invoices by Sunday 12am ET so the invoices are in the review/approval queue by Monday/Tuesday. If there are discrepancies or clarity needed on your invoice, we will reach out to you directly for further information. Please note that when invoices are flagged as containing errors that this may delay your payment timeline.
+Once you send your invoice to thinkful@bill.com, it takes 1-2 days for the Bill.com team to import your invoice from the inbox to the review/approval queue. We review and approve invoices on Tuesday each week, with payments typically issued twice monthly, though may take up to 30 days. For this reason, we typically ask that folks submit invoices by Sunday 12am ET so the invoices are in the review/approval queue by Monday/Tuesday. If there are discrepancies or clarity needed on your invoice, we will reach out to you directly for further information. Please note that when invoices are flagged as containing errors that this may delay your payment timeline.
 
-In order to receive payment, you must submit the invoice as a **PDF attachment** to thinkful@bill.com. 
+In order to receive payment, you must submit the invoice as a **PDF attachment** to thinkful@bill.com, and if you are a local event Instructor or TA, you will cc shannon@thinkful.com and your Community Manager.
 
 
 > *Helpful tip: Set a reminder on your calendar to ensure your invoices are sent before Sunday at midnight ET.*
@@ -77,7 +77,7 @@ In order to receive payment, you must submit the invoice as a **PDF attachment**
 You may bill up to 3 hours for completing your onboarding and reviewing the curriculum. Please pace, prioritize, and bill accordingly.
 
 ***How long does it take to get paid?***
-We reserve the right to pay invoices within 2 weeks of receiving them. Bill.com predicts most transfers take 2-3 business days from the day payment is initiated, but we advise you to anticipate complete transfer within 5 business days.
+We reserve the right to pay invoices within 30 days of receiving them. Bill.com predicts most transfers take 2-3 business days from the day payment is initiated, but we advise you to anticipate complete transfer within 5 business days.
 
 ***How often should I invoice?*** 
 We encourage you to submit your invoices every 2-4 weeks. 
