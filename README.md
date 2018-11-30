@@ -54,7 +54,7 @@ We have some standards that make invoicing simple. We request that on your invoi
    * Quantity in hours
    * Total cost for that activity
 
-**You must use this [invoicing template](https://www.dropbox.com/s/gfjzdsenk21onny/Mentor%20Invoice%20Template%20%281%29.xlsx?dl=0).** Make sure to duplicate this so that the formulas carry over! You will also be provided a version unique to you so you don't have to duplicate the template every time.
+**You must use this [invoicing template](https://www.dropbox.com/s/gfjzdsenk21onny/Mentor%20Invoice%20Template%20%281%29.xlsx?dl=0).** Make sure to duplicate this so that the formulas carry over! 
 
 
 ## Submitting Your Invoice
@@ -72,6 +72,9 @@ In order to receive payment, you must submit the invoice as a **PDF attachment**
 
 
 ## Frequently Asked Questions
+
+***Do I invoice separately for mentor hours and local events hours?***
+Yes.  Local Events should be invoiced separately and sent to thinkful@bill.com, shannon@thinkful.com and your local CM.  Mentor hours should be invoiced separately and sent to thinkful@bill.com.
 
 ***How many hours do I bill for going through the onboarding and the curriculum?***
 You may bill up to 3 hours for completing your onboarding and reviewing the curriculum. Please pace, prioritize, and bill accordingly.
@@ -91,7 +94,7 @@ We're happy to approve additional support for students where it is needed, and a
 To be clear, we do reserve the right to dispute and not compensate for hours beyond the expectation set by the program if these hours were not approved and documented by a Program Manager, Format Lead, or the Ed Ops team in documented manner. If you're unsure about what activities or time are billable, please reach out in the #mentors channel in Thinkful Slack, and we'll get back to you ASAP!
 
 ***What if I make a mistake on an invoice I already submitted?***
-Please do not send an updated invoice to Bill.com. If your invoice has an error on it, reach out to operations@thinkful.com to resolve the issue. 
+Correct your invoice and make sure it has the SAME invoice number, and resend, making sure the subject line says "Update to Invoice #xx".  
 
 ***What is the best way to get support for a billing related question?***
 Send your question to operations@thinkful.com. If you're question is regarding a specific invoice, please list the invoice number, date range, and amount. 
