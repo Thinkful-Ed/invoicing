@@ -54,7 +54,7 @@ We have some standards that make invoicing simple. We request that on your invoi
    * Quantity in hours
    * Total cost for that activity
 
-**You must use this [invoicing template](https://www.dropbox.com/s/gfjzdsenk21onny/Mentor%20Invoice%20Template%20%281%29.xlsx?dl=0).** Make sure to duplicate this so that the formulas carry over! 
+**You must use this [invoicing template](https://docs.google.com/spreadsheets/d/13g9qmRcqandnfvzbvpZpuKV-od-tutsr_8Xn6EiglWQ/edit#gid=238993322).** Make sure to duplicate this so that the formulas carry over! 
 
 
 ## Submitting Your Invoice
